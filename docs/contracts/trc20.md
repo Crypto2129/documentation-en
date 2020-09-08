@@ -9,13 +9,13 @@ TRC‌-20 is a technical standard used for smart contracts on the TRON blockchai
 - Token Name
 
 ```text
-string public constant name = “TRONEuropeRewardCoin”;
+string public constant name = “TRXGAME”;
 ```
 
 - Token Abbreviation
 
 ```text
-string public constant symbol = “TERC”;
+string public constant symbol = “TRG”;
 ```
 
 - Token Precision
